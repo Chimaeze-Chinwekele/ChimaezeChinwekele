@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello, I'm Chima
+
+<a href="https://linkedin.com/in/chimaeze-chinwekele-samuel-00208629a"><img src="https://img.shields.io/badge/LinkedIn-blue" /></a>
 
 <!--
 **CHIMAEZECHINWEKELE/ChimaezeChinwekele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
